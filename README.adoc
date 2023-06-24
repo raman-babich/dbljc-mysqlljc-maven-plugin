@@ -1,4 +1,4 @@
-= Mysql liquibase jooq codegen maven plugin (mysqlljc) [COMING SOON]
+= Mysql liquibase jooq codegen maven plugin (mysqlljc)
 
 This maven plugin is a composition of liquibase maven plugin `+update+` goal and jooq codegen maven
 plugin `+generate+` goal with dockerized mysql running in context of these two goals.
